@@ -1,0 +1,444 @@
+/* Theme Variations for Different Pages */
+
+/* Blue Theme - About */
+body.theme-blue {
+    background-color: #e8f4f8;
+}
+
+body.theme-blue #main-nav {
+    background-color: #d0e8f0;
+}
+
+body.theme-blue .hero {
+    background: linear-gradient(135deg, #e8f4f8 0%, #d0e8f0 100%);
+}
+
+body.theme-blue .purple,
+body.theme-blue .nav-link.active {
+    color: #2563eb !important;
+}
+
+body.theme-blue .bi {
+    color: #2563eb;
+}
+
+body.theme-blue .border-purple {
+    border-color: #2563eb;
+}
+
+body.theme-blue .cert {
+    color: #1e40af;
+}
+
+body.theme-blue .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #f0f9ff 100%);
+}
+
+/* Green Theme - Crypto */
+body.theme-green {
+    background-color: #f0fdf4;
+}
+
+body.theme-green #main-nav {
+    background-color: #dcfce7;
+}
+
+body.theme-green .hero {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+}
+
+body.theme-green .purple,
+body.theme-green .nav-link.active {
+    color: #16a34a !important;
+}
+
+body.theme-green .bi {
+    color: #16a34a;
+}
+
+body.theme-green .border-purple {
+    border-color: #16a34a;
+}
+
+body.theme-green .cert {
+    color: #15803d;
+}
+
+body.theme-green .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #f0fdf4 100%);
+}
+
+/* Orange Theme - Easy */
+body.theme-orange {
+    background-color: #fff7ed;
+}
+
+body.theme-orange #main-nav {
+    background-color: #ffedd5;
+}
+
+body.theme-orange .hero {
+    background: linear-gradient(135deg, #fff7ed 0%, #ffedd5 100%);
+}
+
+body.theme-orange .purple,
+body.theme-orange .nav-link.active {
+    color: #ea580c !important;
+}
+
+body.theme-orange .bi {
+    color: #ea580c;
+}
+
+body.theme-orange .border-purple {
+    border-color: #ea580c;
+}
+
+body.theme-orange .cert {
+    color: #c2410c;
+}
+
+body.theme-orange .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #fff7ed 100%);
+}
+
+/* Red Theme - Expert Witness */
+body.theme-red {
+    background-color: #fef2f2;
+}
+
+body.theme-red #main-nav {
+    background-color: #fee2e2;
+}
+
+body.theme-red .hero {
+    background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+}
+
+body.theme-red .purple,
+body.theme-red .nav-link.active {
+    color: #dc2626 !important;
+}
+
+body.theme-red .bi {
+    color: #dc2626;
+}
+
+body.theme-red .border-purple {
+    border-color: #dc2626;
+}
+
+body.theme-red .cert {
+    color: #b91c1c;
+}
+
+body.theme-red .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #fef2f2 100%);
+}
+
+/* Teal Theme - Press Media */
+body.theme-teal {
+    background-color: #f0fdfa;
+}
+
+body.theme-teal #main-nav {
+    background-color: #ccfbf1;
+}
+
+body.theme-teal .hero {
+    background: linear-gradient(135deg, #f0fdfa 0%, #ccfbf1 100%);
+}
+
+body.theme-teal .purple,
+body.theme-teal .nav-link.active {
+    color: #14b8a6 !important;
+}
+
+body.theme-teal .bi {
+    color: #14b8a6;
+}
+
+body.theme-teal .border-purple {
+    border-color: #14b8a6;
+}
+
+body.theme-teal .cert {
+    color: #0d9488;
+}
+
+body.theme-teal .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #f0fdfa 100%);
+}
+
+/* Indigo Theme - Speaker */
+body.theme-indigo {
+    background-color: #eef2ff;
+}
+
+body.theme-indigo #main-nav {
+    background-color: #e0e7ff;
+}
+
+body.theme-indigo .hero {
+    background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%);
+}
+
+body.theme-indigo .purple,
+body.theme-indigo .nav-link.active {
+    color: #6366f1 !important;
+}
+
+body.theme-indigo .bi {
+    color: #6366f1;
+}
+
+body.theme-indigo .border-purple {
+    border-color: #6366f1;
+}
+
+body.theme-indigo .cert {
+    color: #4f46e5;
+}
+
+body.theme-indigo .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #eef2ff 100%);
+}
+
+/* Pink Theme - TNS */
+body.theme-pink {
+    background-color: #fdf2f8;
+}
+
+body.theme-pink #main-nav {
+    background-color: #fce7f3;
+}
+
+body.theme-pink .hero {
+    background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%);
+}
+
+body.theme-pink .purple,
+body.theme-pink .nav-link.active {
+    color: #ec4899 !important;
+}
+
+body.theme-pink .bi {
+    color: #ec4899;
+}
+
+body.theme-pink .border-purple {
+    border-color: #ec4899;
+}
+
+body.theme-pink .cert {
+    color: #db2777;
+}
+
+body.theme-pink .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #fdf2f8 100%);
+}
+
+/* Brown Theme - Unix vs Windows */
+body.theme-brown {
+    background-color: #fefaf6;
+}
+
+body.theme-brown #main-nav {
+    background-color: #f5e6d3;
+}
+
+body.theme-brown .hero {
+    background: linear-gradient(135deg, #fefaf6 0%, #f5e6d3 100%);
+}
+
+body.theme-brown .purple,
+body.theme-brown .nav-link.active {
+    color: #a16207 !important;
+}
+
+body.theme-brown .bi {
+    color: #a16207;
+}
+
+body.theme-brown .border-purple {
+    border-color: #a16207;
+}
+
+body.theme-brown .cert {
+    color: #854d0e;
+}
+
+body.theme-brown .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #fefaf6 100%);
+}
+
+/* Cyan Theme - Why I like Linux */
+body.theme-cyan {
+    background-color: #ecfeff;
+}
+
+body.theme-cyan #main-nav {
+    background-color: #cffafe;
+}
+
+body.theme-cyan .hero {
+    background: linear-gradient(135deg, #ecfeff 0%, #cffafe 100%);
+}
+
+body.theme-cyan .purple,
+body.theme-cyan .nav-link.active {
+    color: #06b6d4 !important;
+}
+
+body.theme-cyan .bi {
+    color: #06b6d4;
+}
+
+body.theme-cyan .border-purple {
+    border-color: #06b6d4;
+}
+
+body.theme-cyan .cert {
+    color: #0891b2;
+}
+
+body.theme-cyan .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #ecfeff 100%);
+}
+
+/* Dark Theme - Contact */
+body.theme-dark {
+    background-color: #1f2937;
+    color: #f9fafb;
+}
+
+body.theme-dark #main-nav {
+    background-color: #111827;
+}
+
+body.theme-dark .hero {
+    background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+}
+
+body.theme-dark .purple,
+body.theme-dark .nav-link.active {
+    color: #a78bfa !important;
+}
+
+body.theme-dark .bi {
+    color: #a78bfa;
+}
+
+body.theme-dark .border-purple {
+    border-color: #a78bfa;
+}
+
+body.theme-dark .cert {
+    color: #c4b5fd;
+}
+
+body.theme-dark .content-section {
+    background: linear-gradient(180deg, #374151 0%, #1f2937 100%);
+}
+
+body.theme-dark .image-card {
+    background-color: #374151;
+    color: #f9fafb;
+}
+
+body.theme-dark footer {
+    background-color: #111827;
+    color: #f9fafb;
+}
+
+/* Gold Theme - Expired RHCE */
+body.theme-gold {
+    background-color: #fffbeb;
+}
+
+body.theme-gold #main-nav {
+    background-color: #fef3c7;
+}
+
+body.theme-gold .hero {
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+}
+
+body.theme-gold .purple,
+body.theme-gold .nav-link.active {
+    color: #d97706 !important;
+}
+
+body.theme-gold .bi {
+    color: #d97706;
+}
+
+body.theme-gold .border-purple {
+    border-color: #d97706;
+}
+
+body.theme-gold .cert {
+    color: #b45309;
+}
+
+body.theme-gold .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #fffbeb 100%);
+}
+
+/* Silver Theme - Blog */
+body.theme-silver {
+    background-color: #f9fafb;
+}
+
+body.theme-silver #main-nav {
+    background-color: #f3f4f6;
+}
+
+body.theme-silver .hero {
+    background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%);
+}
+
+body.theme-silver .purple,
+body.theme-silver .nav-link.active {
+    color: #6b7280 !important;
+}
+
+body.theme-silver .bi {
+    color: #6b7280;
+}
+
+body.theme-silver .border-purple {
+    border-color: #6b7280;
+}
+
+body.theme-silver .cert {
+    color: #4b5563;
+}
+
+body.theme-silver .content-section {
+    background: linear-gradient(180deg, #ffffff 0%, #f9fafb 100%);
+}
+
+/* Layout Variations */
+.layout-grid .hero > div {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.layout-masonry .image-card {
+    break-inside: avoid;
+}
+
+.layout-compact .hero {
+    padding-top: 40px;
+    min-height: auto;
+}
+
+.layout-wide .content {
+    max-width: 1400px;
+}
+
+.layout-centered .hero > div {
+    text-align: center;
+}

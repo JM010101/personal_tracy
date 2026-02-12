@@ -264,3 +264,6 @@ footer {
         display: block;
     }
 }
+
+/* Import theme variations */
+@import url('themes.css');

@@ -153,6 +153,39 @@ footer {
     bottom: 10px;
 }
 
+.content-section {
+    padding: 60px 0;
+    background-color: #ffffff;
+}
+
+.image-card {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.image-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.image-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.image-card a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.image-card a:hover {
+    text-decoration: none;
+}
+
 .form-group {
     margin-top: 5px;
     margin-bottom: 5px;
